@@ -27,6 +27,7 @@ Start the backend server and the frontend development server, then open your bro
 
 # Project Structure
 b2chats/
+
 │
 
 ├── backend/
